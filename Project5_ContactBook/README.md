@@ -52,6 +52,6 @@ Contact Book Application
 4. Delete a contact
 5. Exit
 Enter choice (1/2/3/4/5): 1
-Enter contact name: John Doe
-Enter contact email: john.doe@example.com
-Enter contact phone number: 1234567890
+Enter contact name: Codsoft
+Enter contact email: codsoft@example.com
+Enter contact phone number: 123456789X
