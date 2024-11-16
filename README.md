@@ -8,7 +8,7 @@ This repository contains the projects developed as part of my internship at **Co
 ### Project 1: Rock Paper Scissors
 A Python game of **Rock Paper Scissors** where users can play against the computer. The game randomly selects an option and determines the winner.
 
-- **File**: `Project1_RockPaperScissors/rock_paper_scissors.py`
+- **File**: `Project1_RockPaperScissors/game.py`
 
 ### Project 2: To-Do List
 A simple **To-Do List** application that allows users to add, edit, delete, and mark tasks as completed or pending. Tasks are saved in a file (`tasks.txt`) to persist between sessions.
@@ -18,7 +18,7 @@ A simple **To-Do List** application that allows users to add, edit, delete, and 
 ### Project 3: Calculator
 A command-line **Calculator** application that supports basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-- **File**: `Project3_Calculator/calculator.py`
+- **File**: `Project3_Calculator/calc.py`
 
 ### Project 4: Password Generator
 A **Password Generator** using the Diceware method to generate secure passphrases. Users can specify the number of words to be included in the passphrase.
